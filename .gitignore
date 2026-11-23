@@ -6,5 +6,5 @@ tags
 .tags
 .DS_Store
 .gitignore
-config.bat
 node_modules
+config.bat
